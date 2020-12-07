@@ -308,7 +308,7 @@ def two_player(max_wrong_guess):
   current_player = 0
 
   player_1 = input("\nPlease enter Player 1's name\n")
-  player_2 = input("\nPlease enter Player 2's name\fn")
+  player_2 = input("\nPlease enter Player 2's name\n")
 
   while 1:
     category, answer = user_answer()
